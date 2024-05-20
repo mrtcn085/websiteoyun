@@ -1,0 +1,75 @@
+.gafa {
+    padding: 0px;
+    background-color:transparent;
+    margin-left: 870px;
+    font-family:sans-serif;
+    z-index: 1;
+    position: relative;
+    color: brown;
+    text-decoration:line-through;
+}
+.anasayfa {
+    margin-left: 820px;
+    text-decoration: underline;
+    z-index: 1;
+    position: relative;
+    color: red;
+}
+.urunler {
+    margin-left: 940px;
+    margin-top: -18px;
+    z-index: 1;
+    position: relative;
+}
+.hakkimda {
+    margin-left: 1060px;
+    margin-top: -18px;
+    z-index: 1;
+    position: relative;
+}
+.baslik {
+    margin-left: 930px;
+    margin-top: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    color: peru;
+    z-index: 1;
+    position: relative;
+}
+.giris {
+    color: aqua;
+    z-index: 1;
+    position: relative;
+    margin-left: 530px;
+    margin-top: 80px;
+}
+.lorem1{
+    margin-top: 100px;
+    color: white;
+    z-index: 1;
+    position: relative;
+    border-style: dashed;
+    font-size: large;
+}
+.lorem2{
+    color: white;
+    z-index: 1;
+    position: relative;
+    border-style: dashed;
+    font-size: large;
+}
+.vizyon, .misyon {
+    z-index: 1;
+    position: relative;
+    color:chartreuse
+}
+.vizyon {
+    margin-left: 940px;
+    margin-top: 50px;
+    text-decoration: underline;
+}
+.misyon {
+    margin-left: 940px;
+    margin-top: 40px;
+    text-decoration: underline;
+    float: left;
+}

@@ -1,0 +1,51 @@
+.gafa {
+    padding: 0px;
+    background-color:transparent;
+    margin-left: 870px;
+    font-family:sans-serif;
+    z-index: 1;
+    position: relative;
+    color: brown;
+    text-decoration:line-through;
+}
+.anasayfa {
+    margin-left: 820px;
+    text-decoration: underline;
+    z-index: 1;
+    position: relative;
+    color: red;
+}
+.urunler {
+    margin-left: 940px;
+    margin-top: -18px;
+    z-index: 1;
+    position: relative;
+}
+.hakkimda {
+    margin-left: 1060px;
+    margin-top: -18px;
+    z-index: 1;
+    position: relative;
+}
+.baslik {
+    margin-left: 920px;
+    margin-top: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    color: peru;
+    z-index: 1;
+    position: relative;
+}
+.kimiz {
+    color: red;
+    z-index: 1;
+    position: relative;
+    text-align: center;
+    margin-top: 100px;
+}
+.reviz {
+    color: white;
+    z-index: 1;
+    position: relative;
+    width: 1800px;
+    text-align: center;
+}

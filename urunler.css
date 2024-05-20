@@ -1,0 +1,69 @@
+.gafa {
+    padding: 0px;
+    background-color:transparent;
+    margin-left: 870px;
+    font-family:sans-serif;
+    z-index: 1;
+    position: relative;
+    color: brown;
+    text-decoration:line-through;
+}
+.anasayfa {
+    margin-left: 820px;
+    text-decoration: underline;
+    z-index: 1;
+    position: relative;
+    color: red;
+}
+.urunler {
+    margin-left: 940px;
+    margin-top: -18px;
+    z-index: 1;
+    position: relative;
+}
+.hakkimda {
+    margin-left: 1060px;
+    margin-top: -18px;
+    z-index: 1;
+    position: relative;
+}
+.baslik {
+    margin-left: 930px;
+    margin-top: 50px;
+    font-family: 'Courier New', Courier, monospace;
+    color: peru;
+    z-index: 1;
+    position: relative;
+}
+.reyyo {
+    z-index: 1;
+    position: relative;
+}
+.reyfot {
+    width: 200px;
+    height: auto;
+    padding: 15px;
+    margin-left: 150px;
+    position: relative;
+    border-style:ridge
+}
+.prmvp {
+    color: white;
+    margin-left: 165px;
+    border-style: dashed;
+    border-radius: 10px;
+    width: 180px;
+    text-align: center;
+}
+.yüzondokuz {
+    z-index: 1;
+    position: relative;
+    color: white;
+    margin-left: 220px;
+    border-style:solid;
+    width: 80px;
+}
+.xy-creat {
+display: inline-block;
+margin-left: 50px;
+}
